@@ -6,9 +6,7 @@
 ### Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=infincek&theme=darkhub)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bablu08)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bablu08" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bablu08&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **Bablu08/Bablu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
