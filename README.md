@@ -10,7 +10,7 @@
 - 👯 I’m open to new ideas for collaboration (feel free to reach out!)  
 - 🤔 I’m not looking for help at the moment  
 - 💬 Ask me about: Front-end development
-- ⚡ Fun fact: Fun fact: I am just like RAM (Memory)
+- ⚡ Fun fact: I am just like RAM (Memory)
 
 
 ### 🔥 My Streak and Contributions Stats
