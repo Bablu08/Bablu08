@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bablu08&theme=github-dark-blue&border_radius=1.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bablu08&theme=transparent&hide_border=true&border_radius=1.5)](https://git.io/streak-stats)
 <!--
 **Bablu08/Bablu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
