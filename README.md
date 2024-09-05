@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-### GitHub Stats
-![Infincek's GitHub stats](https://github-readme-stats.vercel.app/api?username=infincek&show_icons=true&theme=radical)
-
-### Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=infincek&theme=darkhub)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bablu08&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!--
