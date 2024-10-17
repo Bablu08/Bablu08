@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on: my project
-- 🌱 I’m currently learning: Cloud Computing, SQL, C, Java
+- 🌱 I’m currently learning: Cloud Computing, SQL, C, Java, Web Development, ETH
 - 👯 I’m open to new ideas for collaboration (feel free to reach out!)  
 - 🤔 I’m not looking for help at the moment  
 - 💬 Ask me about: Front-end development
