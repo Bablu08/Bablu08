@@ -2,141 +2,51 @@
 
 🎓 B.Tech Computer Science Engineering Student at Nalanda Institute of Technology (NIT), Bhubaneswar
 
-🚀 Aspiring AI Engineer passionate about building intelligent applications and solving real-world problems through technology.
-
-I believe that creating an AI model is only the beginning. My goal is to learn how to build, deploy, and scale production-ready AI systems using modern software engineering, DevOps, and cloud technologies.
+🚀 Aspiring AI Engineer passionate about building intelligent software and solving real-world problems through AI.
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Career Goal
 
-My goal is to become an AI Engineer capable of designing, developing, deploying, and maintaining production-ready AI applications.
-
-I am currently strengthening my knowledge in:
-
-* Artificial Intelligence
-* Machine Learning
-* Large Language Models (LLMs)
-* Python
-* Data Analysis
-* DevOps
-* Cloud Computing
-* Software Engineering
+To become an AI Engineer capable of building, deploying, and scaling production-ready AI applications by combining Artificial Intelligence, Software Engineering, DevOps, and Cloud technologies.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Programming Languages
+**Programming:** Python • JavaScript • C • C++ • SQL
 
-* Python
-* JavaScript
-* C
-* C++
-* SQL
+**Web Development:** HTML • CSS • Bootstrap • React.js • Node.js • Express.js • MongoDB • REST APIs
 
-### Web Development
-
-* HTML
-* CSS
-* Bootstrap
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-
-### Databases
-
-* MySQL
-* MongoDB
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Linux
-* Visual Studio Code
-* Postman
-* Google Colab
+**Tools & Platforms:** Git • GitHub • Linux • VS Code • Postman • Google Colab
 
 ---
 
-# 🚀 Current Learning
+## 🌱 Currently Learning
 
-Currently focused on learning and building projects in:
-
-* Artificial Intelligence
-* Machine Learning
-* Data Analysis
-* Python
-* DevOps Fundamentals
-* Linux
-* Docker (Learning)
-* Cloud Computing
-* Git & GitHub
+Artificial Intelligence • Machine Learning • Data Analysis • DevOps • Docker • Cloud Computing
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-🚧 Coming Soon
+🚧 Coming Soon...
 
-I am actively building projects in:
-
-* AI & Machine Learning
-* Data Analysis
+* AI & Machine Learning Projects
+* Data Analysis Projects
+* MERN Stack Applications
 * Python Automation
-* MERN Stack
-* DevOps
-* Open Source
-
-Each repository will include:
-
-* Project overview
-* Architecture
-* Installation guide
-* Features
-* Screenshots
-* Future improvements
+* DevOps Labs
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Certifications
 
-GitHub automatically displays contribution activity and repository statistics. As I continue building projects, this section will reflect my development journey.
-
----
-
-# 🌱 Currently Learning
-
-* Python for AI
-* Machine Learning Fundamentals
-* Data Analysis
-* Linux
-* Git & GitHub
-* DevOps
-* Docker
-* Cloud Computing
+Currently completing certifications in AI, Python, DevOps, and Cloud Computing.
 
 ---
 
-# 🏆 Certifications
-
-I continuously upskill through professional courses and technical bootcamps.
-
-Upcoming certifications include:
-
-* Artificial Intelligence
-* Machine Learning
-* Python
-* Cloud Computing
-* DevOps
-
----
-
-# 📫 Contact
-
-📍 Bhubaneswar, Odisha, India
+## 📫 Connect with Me
 
 💼 LinkedIn:
 https://www.linkedin.com/in/rajkishorebehera/
@@ -144,12 +54,11 @@ https://www.linkedin.com/in/rajkishorebehera/
 💻 GitHub:
 https://github.com/Bablu08
 
-📧 Email:
-(Add your professional email here)
+📧 Email: *rajkishorebehera358@gmail.com*
 
 ---
 
-⭐ Thank you for visiting my profile! I'm always excited to learn, build, collaborate, and contribute to meaningful software and AI projects.
+⭐ *Always learning. Always building. Always improving.*
 
 
 ### 🔥 My Streak and Contributions Stats
