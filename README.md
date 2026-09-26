@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rajkishore Behera
 
-🚀 Aspiring AI Engineer passionate about building intelligent software and solving real-world problems through AI.
+Aspiring AI Engineer passionate about building intelligent software and solving real-world problems through AI.
 
-⭐ *Always learning. Always building. Always improving.*
+*Always learning. Always building. Always improving.*
 
 ---
 
